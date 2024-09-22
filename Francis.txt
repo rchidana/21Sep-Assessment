@@ -1,0 +1,16 @@
+B
+D
+C
+A
+D
+B
+B
+A
+D
+A
+B
+C
+A
+A
+A
+Practical work " https://github.com/nbdxpez/mvnwebapp"
